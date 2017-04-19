@@ -1,0 +1,11 @@
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\bin\Debug\Enterprise_Solution_SOLID_Template1.Business.Core.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\bin\Debug\Enterprise_Solution_SOLID_Template1.Business.Core.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.Extentions.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\bin\Debug\Enterprise_Solution_SOLID_Template1.Domain.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.ValueConverters.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\bin\Debug\Enterprise_Solution_SOLID_Template1.Domain.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.Extentions.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.ValueConverters.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\obj\Debug\Business.Core.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\obj\Debug\Enterprise_Solution_SOLID_Template1.Business.Core.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Business.Core\obj\Debug\Enterprise_Solution_SOLID_Template1.Business.Core.pdb

@@ -1,0 +1,5 @@
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.Extentions\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.Extentions.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.Extentions\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.Extentions.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.Extentions\obj\Debug\CrossCutting.Extentions.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.Extentions\obj\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.Extentions.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.Extentions\obj\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.Extentions.pdb

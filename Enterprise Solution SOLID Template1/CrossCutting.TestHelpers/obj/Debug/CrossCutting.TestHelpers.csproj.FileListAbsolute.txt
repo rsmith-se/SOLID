@@ -1,0 +1,17 @@
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.TestHelpers.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.TestHelpers.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\Moq.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\Should.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\StructureMap.AutoMocking.Moq.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\StructureMap.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\StructureMap.Net4.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\Moq.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\Moq.xml
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\StructureMap.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\StructureMap.AutoMocking.Moq.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\StructureMap.AutoMocking.Moq.xml
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\bin\Debug\StructureMap.Net4.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\obj\Debug\CrossCutting.TestHelpers.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\obj\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.TestHelpers.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\CrossCutting.TestHelpers\obj\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.TestHelpers.pdb

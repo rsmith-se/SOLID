@@ -1,0 +1,9 @@
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\bin\Debug\Enterprise_Solution_SOLID_Template1.Data.Fakes.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\bin\Debug\Enterprise_Solution_SOLID_Template1.Data.Fakes.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\bin\Debug\Enterprise_Solution_SOLID_Template1.Domain.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.ValueConverters.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\bin\Debug\Enterprise_Solution_SOLID_Template1.Domain.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\bin\Debug\Enterprise_Solution_SOLID_Template1.CrossCutting.ValueConverters.pdb
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\obj\Debug\Data.Fakes.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\obj\Debug\Enterprise_Solution_SOLID_Template1.Data.Fakes.dll
+c:\users\rob\documents\visual studio 2015\Projects\Enterprise Solution SOLID Template1\Enterprise Solution SOLID Template1\Data.Fakes\obj\Debug\Enterprise_Solution_SOLID_Template1.Data.Fakes.pdb
